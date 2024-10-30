@@ -5,3 +5,7 @@ function sayHi()  {
 function goodBye() {
     alert("Пока");
 }
+
+function seeYou() {
+    alert("посмотри в окно");
+}
